@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environment
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Test/cache
+.pytest_cache/
+.coverage
+
+# Generated data and indexes
+data/raw/*
+data/processed/*
+data/indexes/*
+
+# Generated results
+results/predictions/*
+results/evaluation/*

@@ -1,0 +1,12 @@
+sentence-transformers
+faiss-cpu
+transformers
+torch
+google-genai
+python-dotenv
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+pytest
